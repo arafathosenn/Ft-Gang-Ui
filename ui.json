@@ -62,17 +62,17 @@
           "name": "EXPLOITS",
           "column": "left",
           "items": [
-            {"type": "switch", "name": "Ghost Hack", "id": 33},
-            {"type": "switch", "name": "Speed Hack", "id": 25},
-            {"type": "switch", "name": "Spin Bot", "id": 29}
+            {"type": "switch", "name": "", "id": 33},
+            {"type": "switch", "name": "", "id": 25},
+            {"type": "switch", "name": "", "id": 29}
           ]
         },
         {
           "name": "SHORTCUTS",
           "column": "right",
           "items": [
-            {"type": "switch", "name": "Speed Hack", "id": 101},
-            {"type": "switch", "name": "Ghost Hack", "id": 104}
+            {"type": "switch", "name": "", "id": 101},
+            {"type": "switch", "name": "", "id": 104}
           ]
         }
       ]
